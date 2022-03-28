@@ -1,0 +1,6 @@
+class Demo {
+public static void main(String []ars)
+{
+System.out.println("Hello this is just a text");
+}
+}
